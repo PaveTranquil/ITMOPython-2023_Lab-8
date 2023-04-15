@@ -117,8 +117,8 @@ def extra_task():
 
 
 if __name__ == '__main__':
-    # task_1()
+    task_1()
     # task_2()
-    extra_task()
+    # extra_task()
     cv2.waitKey(0)
     cv2.destroyAllWindows()
